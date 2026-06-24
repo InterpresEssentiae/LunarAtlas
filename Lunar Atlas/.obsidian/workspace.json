@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "О хранилище.md",
+                "file": "4. Frozen/Sanguis Putris/Литература/Sanguis Putris.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "О хранилище"
+              "title": "Sanguis Putris"
             }
           }
         ]
@@ -117,13 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "О хранилище.md",
+                "file": "4. Frozen/Sanguis Putris/Литература/Sanguis Putris.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура О хранилище"
+              "title": "Структура Sanguis Putris"
             }
           },
           {
@@ -150,18 +150,18 @@
       "templates:Вставить шаблон": true,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": true,
-      "webpage-html-export:Export Vault to HTML": true,
-      "github-sync:Sync with Remote": true
+      "webpage-html-export:Export as HTML": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "ef0733a486addaaa",
+  "active": "6e17949f089120ff",
   "lastOpenFiles": [
+    "О хранилище.md",
     "1. Up to Date/Terra Nova/Содержание.md",
     "3. Frozen",
     "2. In Progress",
     "1. Up to Date",
     "1. Up to Date/Terra Nova/Хронология.md",
-    "О хранилище.md",
     "1. Up to Date/Terra Nova/Справочник/Персонажи/Персонажи/Петра Керн.md",
     "1. Up to Date/Terra Nova/Справочник/Общество/Технологии/Контурный проход.md",
     "1. Up to Date/Terra Nova/Справочник/Мир/Локации/Контур/Административные единицы/Центральный контурный сектор.md",
