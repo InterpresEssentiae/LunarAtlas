@@ -125,16 +125,6 @@
               "icon": "lucide-list",
               "title": "Структура Sanguis Putris"
             }
-          },
-          {
-            "id": "5453495d29b572c6",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
           }
         ],
         "currentTab": 2
