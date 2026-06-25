@@ -11,14 +11,12 @@
             "id": "6e17949f089120ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Проекты/О хранилище.md",
-                "mode": "source",
-                "source": true
+                "file": "Обложка.jpg"
               },
-              "icon": "lucide-file",
-              "title": "О хранилище"
+              "icon": "lucide-image",
+              "title": "Обложка"
             }
           }
         ]
@@ -117,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проекты/О хранилище.md",
+                "file": "Обложка.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура О хранилище"
+              "title": "Структура Обложка"
             }
           }
         ],
@@ -145,16 +143,16 @@
   },
   "active": "6e17949f089120ff",
   "lastOpenFiles": [
+    "Проекты/4. Frozen/Проект «Таласса»/Описание.md",
+    "Проекты/О хранилище.md",
     "Описание.md",
     "Обложка.jpg",
-    "Проекты/О хранилище.md",
     "Проекты/1. Up to Date/Хронология ветра/Описание.md",
     "Материалы",
     "Проекты",
     "Материалы",
     "Проекты",
     "Original Centered 01 — 1.jpg",
-    "Проекты/4. Frozen/Проект «Таласса»/Описание.md",
     "Проекты/4. Frozen/Sanguis Putris/Литература/Sanguis Putris.md",
     "Проекты/4. Frozen/Sanguis Putris/Описание.md",
     "Проекты/4. Frozen/Sanguis Putris/Литература",
